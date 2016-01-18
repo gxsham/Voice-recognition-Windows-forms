@@ -1,0 +1,13 @@
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\bin\Debug\voice_recognition.exe.config
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\bin\Debug\voice_recognition.exe
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\bin\Debug\voice_recognition.pdb
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.csprojResolveAssemblyReference.cache
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.Form1.resources
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.Properties.Resources.resources
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.csproj.GenerateResource.Cache
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.exe
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.pdb
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.exe.manifest
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\bin\Debug\voice_recognition.exe.manifest
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\bin\Debug\voice_recognition.application
+c:\users\gxsham\documents\visual studio 2015\Projects\voice_recognition\voice_recognition\obj\Debug\voice_recognition.application
